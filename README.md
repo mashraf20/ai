@@ -1,1 +1,1 @@
-"# AI Facultiy Search" 
+# AI Facultiy Search
